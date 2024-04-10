@@ -1,6 +1,6 @@
 # Laravel 11 CRUD Application
 
-Este é um aplicativo web desenvolvido em Laravel 11 que permite realizar operações CRUD (Create, Read, Update, Delete) em alunos, cursos e matrículas. O aplicativo também possui um sistema de autenticação acesso do sistema.
+Este é um aplicativo web desenvolvido em Laravel 11 que permite realizar operações CRUD (Create, Read, Update, Delete) em alunos, cursos e matrículas. O aplicativo também possui um sistema de autenticação do sistema.
 
 ## Funcionalidades
 
